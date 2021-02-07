@@ -1,5 +1,5 @@
-The python module multiplies takes two decimal number as input and prints the binary representation of their product using Booth's Algorithm.
-Booth's algorithm for signed multiplication is used to multiply two binary number by minimizing additions and subtractions.
+This python module takes two decimal numbers as input and prints the binary representation of their product using Booth's Algorithm.
+Booth's algorithm for signed multiplication is used to multiply two binary numbers by minimizing additions and subtractions.
 
 Input: two integers in the range [-2^15,2^15-1]
 Output: 32 bit binary representation of the product.
